@@ -31,7 +31,7 @@
         <item>Triceratopsidae</item>
         <item>Ankylosauridae</item>
     </string-array>
-    
+
     <string-array name="famili_description">
         <item>Tyrannosauridae adalah famili dinosaurus theropoda yang terkenal dengan ukuran tubuh besar dan kepala yang besar. Salah satu anggotanya yang paling terkenal adalah Tyrannosaurus rex.</item>
         <item>Sauropodae adalah famili dinosaurus herbivora yang memiliki tubuh besar, leher panjang, dan ekor yang relatif pendek. Contoh terkenal termasuk Brachiosaurus dan Diplodocus.</item>
@@ -64,7 +64,7 @@
         <item>Ciri khas Triceratopsidae adalah tengkorak yang besar dan kuat dengan tanduk-tanduk yang menonjol dan lempeng-lempong di bagian belakangnya. Mereka memiliki tubuh besar dan kaki yang kuat.</item>
         <item>Ciri khas Ankylosauridae adalah tubuh yang dilindungi oleh lempengan-lempong dan cakar-cakar besar. Beberapa spesies juga memiliki tulang ekor yang kuat yang membentuk "gada".</item>
     </string-array>
-    
+
     <string-array name="famili_habitat">
         <item>Tyrannosauridae hidup di berbagai habitat, termasuk hutan, dataran, dan daerah terbuka di Amerika Utara.</item>
         <item>Sauropodae ditemukan di berbagai habitat, termasuk dataran banjir, padang rumput, dan hutan tropis.</item>
@@ -75,7 +75,7 @@
         <item>Triceratopsidae hidup di berbagai habitat, termasuk dataran banjir, padang rumput, dan daerah bersemak di Amerika Utara.</item>
         <item>Ankylosauridae biasanya ditemukan di dataran banjir, hutan, dan padang rumput selama periode Jura dan Kapur di Amerika Utara, Asia, dan Eropa.</item>
     </string-array>
-    
+
     <string-array name="famili_behavior">
         <item>Diduga Tyrannosauridae adalah pemburu yang kuat dan aktif, mungkin berburu dalam kelompok kecil atau sendirian.</item>
         <item>Sauropodae adalah hewan herbivora yang mungkin melakukan migrasi untuk mencari makanan atau menghindari musim kering.</item>
@@ -97,8 +97,8 @@
         <item>Famili: Triceratopsidae.</item>
         <item>Famili: Ankylosauridae.</item>
     </string-array>
-    
-    
+
+
     <string name="info_dino_icon">Ikon Dinosaurus</string>
     <string name="info_dino_name">Nama Dinosaurus</string>
     <string name="info_dino_desc">Deskripsi</string>
@@ -154,7 +154,7 @@
         <item>@drawable/ankylosauridae_ankylosaurus</item>
         <item>@drawable/ankylosauridae_euoplocephalus</item>
     </string-array>
-    
+
     <string-array name="dino_desc">
         <item></item>
         <item></item>
@@ -176,7 +176,7 @@
         <item></item>
         <item></item>
     </string-array>
-    
+
     <string-array name="dino_characteristic">
         <item></item>
         <item></item>
