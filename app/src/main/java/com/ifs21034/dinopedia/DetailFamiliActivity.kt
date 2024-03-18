@@ -26,7 +26,7 @@ class DetailFamiliActivity : AppCompatActivity() {
 
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
         if (famili != null) {
-            supportActionBar?.title = "Buah ${famili!!.name}"
+            supportActionBar?.title = "Famili ${famili!!.name}"
             loadData(famili!!)
         } else {
             finish()
