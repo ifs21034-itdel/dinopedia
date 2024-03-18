@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Dino Pedia</string>
     <string name="about">About</string>
+    <string name="nim">11S21034</string>
+    <string name="namaku">Enrico Hezkiel Sirait</string>
+    <string name="followers">11,7K</string>
+    <string name="following">5</string>
 
 
     <string name="info_famili_icon">Ikon Famili</string>
