@@ -1,3 +1,356 @@
 <resources>
     <string name="app_name">Dino Pedia</string>
+
+    <string name="info_famili_icon">Ikon Famili</string>
+    <string name="info_famili_name">Nama Famili</string>
+    <string name="info_famili_desc">Deskripsi</string>
+    <string name="info_famili_period">Periode Hidup</string>
+    <string name="info_famili_physical">Karakteristik Fisik</string>
+    <string name="info_famili_habitat">Habitat dan Lingkungan</string>
+    <string name="info_famili_behavior">Perilaku</string>
+    <string name="info_famili_classification">Klasifikasi</string>
+
+    <string-array name="famili_icon">
+        <item>@drawable/tyrannosauridae</item>
+        <item>@drawable/sauropodae</item>
+        <item>@drawable/hadrosauridae</item>
+        <item>@drawable/stegosauridae</item>
+        <item>@drawable/ornithomimidae</item>
+        <item>@drawable/velociraptoridae</item>
+        <item>@drawable/triceratopsidae</item>
+        <item>@drawable/ankylosauridae</item>
+    </string-array>
+
+    <string-array name="famili_name">
+        <item>Tyrannosauridae</item>
+        <item>Sauropodae</item>
+        <item>Hadrosauridae</item>
+        <item>Stegosauridae</item>
+        <item>Ornithomimidae</item>
+        <item>Velociraptoridae</item>
+        <item>Triceratopsidae</item>
+        <item>Ankylosauridae</item>
+    </string-array>
+    
+    <string-array name="famili_description">
+        <item>Tyrannosauridae adalah famili dinosaurus theropoda yang terkenal dengan ukuran tubuh besar dan kepala yang besar. Salah satu anggotanya yang paling terkenal adalah Tyrannosaurus rex.</item>
+        <item>Sauropodae adalah famili dinosaurus herbivora yang memiliki tubuh besar, leher panjang, dan ekor yang relatif pendek. Contoh terkenal termasuk Brachiosaurus dan Diplodocus.</item>
+        <item>Hadrosauridae adalah famili dinosaurus herbivora yang terkenal dengan rahang mereka yang mirip paruh bebek.</item>
+        <item>Stegosauridae adalah famili dinosaurus herbivora yang terkenal dengan cakar dan lempeng di punggung mereka.</item>
+        <item>Ornithomimidae adalah famili dinosaurus yang memiliki kemiripan dengan burung unta modern dalam bentuk tubuh dan mungkin perilaku.</item>
+        <item>Velociraptoridae adalah famili dinosaurus theropoda yang terkenal dengan ukuran tubuh yang kecil hingga sedang, dan cakar kaki yang besar dan tajam.</item>
+        <item>Triceratopsidae adalah famili dinosaurus herbivora yang terkenal dengan tanduk dan lempeng besar di tengkorak mereka.</item>
+        <item>Ankylosauridae adalah famili dinosaurus herbivora yang terkenal dengan tubuh yang dilindungi oleh lempengan-lempong dan cakar-cakar besar.</item>
+    </string-array>
+
+    <string-array name="famili_period">
+        <item>Hidup selama periode Kapur, sekitar 68 hingga 66 juta tahun yang lalu.</item>
+        <item>Hidup selama periode Jura dan Kapur, sekitar 208 hingga 66 juta tahun yang lalu.</item>
+        <item>Hidup selama periode Kapur, sekitar 90 hingga 65 juta tahun yang lalu.</item>
+        <item>Hidup selama periode Jura, sekitar 155 hingga 150 juta tahun yang lalu.</item>
+        <item>Hidup selama periode Kapur, sekitar 145 hingga 66 juta tahun yang lalu.</item>
+        <item>Hidup selama periode Kapur, sekitar 85 hingga 70 juta tahun yang lalu.</item>
+        <item>Hidup selama periode Kapur, sekitar 68 hingga 66 juta tahun yang lalu.</item>
+        <item>Hidup selama periode Jura dan Kapur, sekitar 160 hingga 66 juta tahun yang lalu.</item>
+    </string-array>
+
+    <string-array name="famili_characteristic">
+        <item>Ciri khas Tyrannosauridae adalah tengkorak besar dengan gigi-gigi yang besar dan rahang yang kuat. Mereka memiliki tubuh yang besar dengan kaki belakang yang kuat untuk berburu mangsanya.</item>
+        <item>Ciri khas Sauropodae adalah tubuh besar, leher panjang yang memungkinkan mereka mencapai daun-daun tinggi, dan kaki yang relatif kecil dibandingkan dengan tubuh mereka.</item>
+        <item>Ciri khas Hadrosauridae adalah rahang yang datar dan lebar dengan gigi-gigi kecil yang rapi. Beberapa spesies juga memiliki kresta yang besar di atas kepala.</item>
+        <item>Ciri khas Stegosauridae adalah lempeng-lempong besar di punggung dan ekor yang dilengkapi dengan cakar-cakar besar. Mereka memiliki kepala kecil dan tubuh besar.</item>
+        <item>Ciri khas Ornithomimidae adalah tubuh yang ramping dengan kaki panjang, serta tengkorak yang kecil dengan rahang yang mirip paruh. Mereka adalah dinosaurus bergerak cepat dan mungkin memiliki bulu.</item>
+        <item>Ciri khas Velociraptoridae adalah tubuh kecil hingga sedang dengan kaki panjang dan cakar besar di kaki yang digunakan untuk menyerang mangsanya. Mereka memiliki tengkorak kecil dengan gigi tajam.</item>
+        <item>Ciri khas Triceratopsidae adalah tengkorak yang besar dan kuat dengan tanduk-tanduk yang menonjol dan lempeng-lempong di bagian belakangnya. Mereka memiliki tubuh besar dan kaki yang kuat.</item>
+        <item>Ciri khas Ankylosauridae adalah tubuh yang dilindungi oleh lempengan-lempong dan cakar-cakar besar. Beberapa spesies juga memiliki tulang ekor yang kuat yang membentuk "gada".</item>
+    </string-array>
+    
+    <string-array name="famili_habitat">
+        <item>Tyrannosauridae hidup di berbagai habitat, termasuk hutan, dataran, dan daerah terbuka di Amerika Utara.</item>
+        <item>Sauropodae ditemukan di berbagai habitat, termasuk dataran banjir, padang rumput, dan hutan tropis.</item>
+        <item>Hadrosauridae biasanya ditemukan di daerah dataran banjir, rawa-rawa, dan wilayah yang berair di Amerika Utara dan Asia.</item>
+        <item> Stegosauridae mungkin hidup di hutan-hutan dan wilayah yang bersemak, terutama di Amerika Utara dan Eropa.</item>
+        <item>Ornithomimidae mungkin hidup di dataran terbuka, hutan, dan padang rumput selama periode Kapur di Amerika Utara, Eropa, dan Asia.</item>
+        <item>Velociraptoridae hidup di berbagai habitat, termasuk hutan, padang rumput, dan daerah terbuka di Asia dan Amerika Utara.</item>
+        <item>Triceratopsidae hidup di berbagai habitat, termasuk dataran banjir, padang rumput, dan daerah bersemak di Amerika Utara.</item>
+        <item>Ankylosauridae biasanya ditemukan di dataran banjir, hutan, dan padang rumput selama periode Jura dan Kapur di Amerika Utara, Asia, dan Eropa.</item>
+    </string-array>
+    
+    <string-array name="famili_behavior">
+        <item>Diduga Tyrannosauridae adalah pemburu yang kuat dan aktif, mungkin berburu dalam kelompok kecil atau sendirian.</item>
+        <item>Sauropodae adalah hewan herbivora yang mungkin melakukan migrasi untuk mencari makanan atau menghindari musim kering.</item>
+        <item>Hadrosauridae mungkin hidup dalam kelompok besar dan memiliki perilaku sosial yang kompleks, serta kemungkinan menggunakan suara-suara untuk komunikasi.</item>
+        <item>Stegosauridae kemungkinan adalah hewan herbivora yang hidup soliter dan menggunakan lempeng-lempong dan cakar-cakar mereka untuk pertahanan atau untuk memikat pasangan.</item>
+        <item>Ornithomimidae mungkin adalah dinosaurus omnivora atau herbivora yang hidup dalam kelompok kecil. Mereka mungkin berlari cepat untuk menghindari predator.</item>
+        <item>Velociraptoridae adalah pemburu cerdas yang mungkin berburu dalam kelompok kecil. Mereka kemungkinan menggunakan cakar mereka untuk menyerang dan membunuh mangsanya.</item>
+        <item>Triceratopsidae mungkin adalah dinosaurus herbivora yang hidup dalam kelompok kecil dan menggunakan tanduk mereka untuk pertahanan dan ritual perkawinan.</item>
+        <item>Ankylosauridae mungkin adalah dinosaurus herbivora yang hidup soliter dan menggunakan perlindungan fisik mereka untuk menghindari predator.</item>
+    </string-array>
+
+    <string-array name="famili_classification">
+        <item>Famili: Tyrannosauridae.</item>
+        <item>Famili: Sauropodae.</item>
+        <item>Famili: Hadrosauridae.</item>
+        <item>Famili: Stegosauridae.</item>
+        <item>Famili: Ornithomimidae.</item>
+        <item>Famili: Velociraptoridae.</item>
+        <item>Famili: Triceratopsidae.</item>
+        <item>Famili: Ankylosauridae.</item>
+    </string-array>
+    
+    
+    <string name="info_dino_icon">Ikon Dinosaurus</string>
+    <string name="info_dino_name">Nama Dinosaurus</string>
+    <string name="info_dino_desc">Deskripsi</string>
+    <string name="info_dino_characteristic">Karakteristik</string>
+    <string name="info_dino_group">Kelompok</string>
+    <string name="info_dino_habitat">Habitat</string>
+    <string name="info_dino_food">Makanan</string>
+    <string name="info_dino_length">Panjang</string>
+    <string name="info_dino_height">Tinggi</string>
+    <string name="info_dino_weight">Bobot</string>
+    <string name="info_dino_weakness">Kelemahan</string>
+
+    <string-array name="dino_name">
+        <item>Tyrannosaurus rex</item>
+        <item>Albertosaurus</item>
+        <item>Tarbosaurus</item>
+        <item>Brachiosaurus</item>
+        <item>Diplodocus</item>
+        <item>Apatosaurus</item>
+        <item>Parasaurolophus</item>
+        <item>Edmontosaurus</item>
+        <item>Maiasaura</item>
+        <item>Stegosaurus</item>
+        <item>Kentrosaurus</item>
+        <item>Ornithomimus</item>
+        <item>Gallimimus</item>
+        <item>Velociraptor</item>
+        <item>Deinonychus</item>
+        <item>Triceratops</item>
+        <item>Torosaurus</item>
+        <item>Ankylosaurus</item>
+        <item>Euoplocephalus</item>
+    </string-array>
+
+    <string-array name="dino_icon">
+        <item>@drawable/tyrannosauridae_tyrannosaurusrex</item>
+        <item>@drawable/tyrannosauridae_albertosaurus</item>
+        <item>@drawable/tyrannosauridae_tarbosaurus</item>
+        <item>@drawable/sauropodae_brachiosaurus</item>
+        <item>@drawable/sauropodae_diplodocus</item>
+        <item>@drawable/sauropodae_apatosaurus</item>
+        <item>@drawable/hadrosauridae_parasaurolophus</item>
+        <item>@drawable/hadrosauridae_parasaurolophus</item>
+        <item>@drawable/hadrosauridae_maiasaura</item>
+        <item>@drawable/stegosauridae_stegosaurus</item>
+        <item>@drawable/stegosauridae_kentrosaurus</item>
+        <item>@drawable/ornithomimidae_ornithomimus</item>
+        <item>@drawable/ornithomimidae_gallimimus</item>
+        <item>@drawable/velociraptoridae_velociraptor</item>
+        <item>@drawable/velociraptoridae_deinonychus</item>
+        <item>@drawable/triceratopsidae_triceratops</item>
+        <item>@drawable/triceratopsidae_torosaurus</item>
+        <item>@drawable/ankylosauridae_ankylosaurus</item>
+        <item>@drawable/ankylosauridae_euoplocephalus</item>
+    </string-array>
+    
+    <string-array name="dino_desc">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    
+    <string-array name="dino_characteristic">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="dino_group">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="dino_habitat">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="dino_food">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="dino_length">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="dino_heigth">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="dino_weight">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="dino_weakness">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
 </resources>
