@@ -13,10 +13,16 @@
         android:theme="@style/Theme.DinoPedia"
         tools:targetApi="31">
         <activity
+            android:name=".DinosaurActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailDinosaurActivity"
+            android:exported="false" />
+        <activity
             android:name=".DetailFamiliActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".FamiliActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
