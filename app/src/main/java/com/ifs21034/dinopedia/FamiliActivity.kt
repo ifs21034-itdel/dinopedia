@@ -4,6 +4,9 @@ import android.annotation.SuppressLint
 import android.content.Intent
 import android.content.res.Configuration
 import android.os.Bundle
+import android.view.Menu
+import android.view.MenuItem
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -22,6 +25,22 @@ class FamiliActivity : AppCompatActivity() {
         binding.rvFamili.setHasFixedSize(false)
         dataFamilis.addAll(getListFamilis())
         showRecyclerList()
+    }
+
+    override fun onCreateOptionsMenu(menu: Menu): Boolean {
+        menuInflater.inflate(R.menu.menu_main, menu)
+        return true
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        when (item.itemId) {
+            R.id.menu_about -> {
+                Toast.makeText(this, "Memilih menu about",
+                    Toast.LENGTH_SHORT).show()
+            }
+            else -> return super.onOptionsItemSelected(item)
+        }
+        return true
     }
 
     @SuppressLint("Recycle")

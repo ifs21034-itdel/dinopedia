@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Dino Pedia</string>
+    <string name="about">About</string>
+
 
     <string name="info_famili_icon">Ikon Famili</string>
     <string name="info_famili_name">Nama Famili</string>
