@@ -1,5 +1,6 @@
 package com.ifs21034.dinopedia
 
+import android.R
 import android.os.Build
 import android.os.Bundle
 import android.view.MenuItem
@@ -38,7 +39,7 @@ class DetailFamiliActivity : AppCompatActivity() {
         binding.tvDetailName.text = famili.name
         binding.tvDetailDescription.text = famili.description
         binding.tvDetailPeriode.text = famili.period
-        binding.tvDetailCharacteristic.text = famili.characteristic
+        binding.tvDetailPhysical.text = famili.characteristic
         binding.tvDetailHabitat.text = famili.habitat
         binding.tvDetailBehavior.text = famili.behavior
         binding.tvDetailClassification.text = famili.classification
@@ -46,7 +47,7 @@ class DetailFamiliActivity : AppCompatActivity() {
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when (item.itemId) {
-            android.R.id.home -> {
+            R.id.home -> {
                 finish()
             }
         }

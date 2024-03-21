@@ -3,18 +3,28 @@
     <string name="about">About</string>
     <string name="nim">11S21034</string>
     <string name="namaku">Enrico Hezkiel Sirait</string>
-    <string name="followers">11,7K</string>
-    <string name="following">5</string>
+    <string name="followers">Pengikut : 11,7K</string>
+    <string name="following">Mengikuti : 5</string>
 
+    <string name="famili">Famili</string>
+    <string name="dino">Dinosaurus</string>
+    <string name="explore_famili">Explore Famili</string>
+    <string name="explore_famili_desc">Jelajahi 8 famili besar dinosaurus</string>
+    <string name="btn_explore_famili">Jelajahi Famili</string>
+    <string name="explore_dino">Explore Dino</string>
+    <string name="explore_dino_desc">Lihat semua anggota dinosaurus</string>
+    <string name="btn_explore_dino">Jelajahi Dinosaurus</string>
 
     <string name="info_famili_icon">Ikon Famili</string>
     <string name="info_famili_name">Nama Famili</string>
+    <string name="info_famili_review">Deskripsi Singkat</string>
     <string name="info_famili_desc">Deskripsi</string>
     <string name="info_famili_period">Periode Hidup</string>
     <string name="info_famili_physical">Karakteristik Fisik</string>
     <string name="info_famili_habitat">Habitat dan Lingkungan</string>
     <string name="info_famili_behavior">Perilaku</string>
     <string name="info_famili_classification">Klasifikasi</string>
+    <string name="info_famili_container">Container</string>
 
     <string-array name="famili_icon">
         <item>@drawable/tyrannosauridae</item>
@@ -36,6 +46,17 @@
         <item>Velociraptoridae</item>
         <item>Triceratopsidae</item>
         <item>Ankylosauridae</item>
+    </string-array>
+
+    <string-array name="famili_review">
+        <item>Famili dinosaurus karnivora besar</item>
+        <item>Famili dinosaurus raksasa dan leher panjang</item>
+        <item>Famili dinosaurus herbivora dengan paruh mirip bebek</item>
+        <item>Famili dinosaurus dengan plat dan duri di punggungnya</item>
+        <item>Famili dinosaurus cepat dan lentur, mirip dengan burung</item>
+        <item>Famili dinosaurus karnivora cerdas</item>
+        <item>Famili dinosaurus bertanduk besar</item>
+        <item>Famili dinosaurus dengan pelindung keras</item>
     </string-array>
 
     <string-array name="famili_description">
@@ -181,6 +202,28 @@
         <item></item>
         <item></item>
         <item></item>
+    </string-array>
+
+    <string-array name="dino_review">
+        <item>Raja karnivora prasejarah dengan gigi tajam dan tubuh besar.</item>
+        <item>Karnivora yang mirip dengan Tyrannosaurus, tetapi sedikit lebih kecil.</item>
+        <item>Dinosaurus karnivora besar yang mirip dengan Tyrannosaurus, ditemukan di Asia.</item>
+        <item>Salah satu dari sauropoda terbesar yang pernah hidup, dengan leher yang panjang dan tubuh besar.</item>
+        <item>Sauropoda dengan leher panjang dan ekor yang memanjang.</item>
+        <item>Sauropoda besar dengan tubuh berat dan leher panjang.</item>
+        <item>Dinosaurus herbivora berjalan dua kaki dengan crests unik di kepala.</item>
+        <item>Herbivora berukuran sedang dengan gigi yang cocok untuk mengunyah tanaman.</item>
+        <item>Dinosaurus herbivora yang dikenal sebagai "ibu yang baik" karena perilaku perawatannya terhadap anak-anaknya.</item>
+        <item>Dinosaurus herbivora dengan punggung yang dipenuhi dengan plat dan ekor yang dilengkapi dengan duri.</item>
+        <item>Dinosaurus bertubuh kecil dengan deretan duri di punggungnya.</item>
+        <item>Dinosaurus mirip burung yang cepat dan lentur.</item>
+        <item>Dinosaurus cepat dengan struktur tubuh yang mirip burung.</item>
+        <item>Karnivora kecil dan cerdas dengan cakar tajam.</item>
+        <item>Karnivora dengan ukuran sedang yang sering disalahpahami sebagai "raptor" dalam fiksi populer.</item>
+        <item>Herbivora besar dengan tiga tanduk dan kerah tulang di belakang kepalanya.</item>
+        <item>Dinosaurus mirip Triceratops dengan perbedaan ukuran dan bentuk tanduk.</item>
+        <item>Dinosaurus bertubuh berat dengan pelindung keras di tubuhnya.</item>
+        <item>Herbivora yang mirip Ankylosaurus dengan pelindung keras di tubuhnya.</item>
     </string-array>
 
     <string-array name="dino_characteristic">

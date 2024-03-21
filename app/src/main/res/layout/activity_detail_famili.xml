@@ -15,55 +15,51 @@
 
         <ImageView
             android:id="@+id/ivDetailIcon"
-            android:layout_width="120dp"
-            android:layout_height="120dp"
-            android:layout_marginTop="16dp"
+            android:layout_width="240dp"
+            android:layout_height="240dp"
             android:contentDescription="@string/info_famili_icon"
             android:src="@drawable/tyrannosauridae"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvDetailName"
             tools:ignore="ImageContrastCheck" />
 
         <TextView
             android:id="@+id/tvDetailName"
+            style="@style/TextBold.H1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
             android:text="@string/info_famili_name"
-            android:textSize="24sp"
-            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:src="@drawable/shape_welcome"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/ivDetailIcon" />
+
+        <TextView
+            android:id="@+id/tvTitle1"
+            style="@style/TextBold.H3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="52dp"
+            android:text="@string/info_famili_desc"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/ivDetailIcon" />
 
         <TextView
             android:id="@+id/tvDetailDescription"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="16dp"
-            android:layout_marginTop="8dp"
-            android:layout_marginEnd="16dp"
-            android:text="@string/info_famili_desc"
-            android:textAlignment="textStart"
-            android:textSize="16sp"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tvDetailName" />
-
-        <TextView
-            android:id="@+id/tvTitle1"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="16dp"
-            android:layout_marginTop="24dp"
-            android:text="@string/info_famili_desc"
-            android:textSize="20sp"
-            android:textStyle="bold"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tvDetailDescription" />
-
-        <TextView
-            android:id="@+id/tvDetailCharacteristic"
+            style="@style/Text.P5"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
@@ -76,6 +72,7 @@
 
         <TextView
             android:id="@+id/tvTitle2"
+            style="@style/TextBold.H3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
@@ -84,10 +81,11 @@
             android:textSize="20sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tvDetailCharacteristic" />
+            app:layout_constraintTop_toBottomOf="@+id/tvDetailDescription" />
 
         <TextView
             android:id="@+id/tvDetailPeriode"
+            style="@style/Text.P5"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
@@ -100,6 +98,7 @@
 
         <TextView
             android:id="@+id/tvTitle3"
+            style="@style/TextBold.H3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
@@ -112,6 +111,7 @@
 
         <TextView
             android:id="@+id/tvDetailPhysical"
+            style="@style/Text.P5"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
@@ -120,11 +120,13 @@
             android:textAlignment="textStart"
             android:textSize="16sp"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/tvTitle3" />
 
         <TextView
             android:id="@+id/tvTitle4"
+            style="@style/TextBold.H3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
@@ -137,6 +139,7 @@
 
         <TextView
             android:id="@+id/tvDetailHabitat"
+            style="@style/Text.P5"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
@@ -150,6 +153,7 @@
 
         <TextView
             android:id="@+id/tvTitle5"
+            style="@style/TextBold.H3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
@@ -162,6 +166,7 @@
 
         <TextView
             android:id="@+id/tvDetailBehavior"
+            style="@style/Text.P5"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
@@ -175,6 +180,7 @@
 
         <TextView
             android:id="@+id/tvTitle6"
+            style="@style/TextBold.H3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
@@ -187,6 +193,7 @@
 
         <TextView
             android:id="@+id/tvDetailClassification"
+            style="@style/Text.P5"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"

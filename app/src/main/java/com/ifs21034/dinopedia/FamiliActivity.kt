@@ -9,16 +9,16 @@ import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.ifs21034.dinopedia.databinding.ActivityMainBinding
+import com.ifs21034.dinopedia.databinding.ActivityFamiliBinding
 
 class FamiliActivity : AppCompatActivity() {
 
-    private lateinit var binding: ActivityMainBinding
+    private lateinit var binding: ActivityFamiliBinding
     private val dataFamilis = ArrayList<Famili>()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        binding = ActivityMainBinding.inflate(layoutInflater)
+        binding = ActivityFamiliBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
         binding.rvFamili.setHasFixedSize(false)
@@ -50,6 +50,8 @@ class FamiliActivity : AppCompatActivity() {
             resources.obtainTypedArray(R.array.famili_icon)
         val dataDescription =
             resources.getStringArray(R.array.famili_description)
+        val dataReview =
+            resources.getStringArray(R.array.famili_review)
         val dataPeriod =
             resources.getStringArray(R.array.famili_period)
         val dataCharacteristic =
@@ -64,7 +66,7 @@ class FamiliActivity : AppCompatActivity() {
         val listFamili = ArrayList<Famili>()
         for (i in dataName.indices) {
             val famili = Famili(dataName[i],
-                dataIcon.getResourceId(i, -1), dataDescription[i],
+                dataIcon.getResourceId(i, -1),dataReview[i], dataDescription[i],
                 dataPeriod[i], dataCharacteristic[i], dataHabitat[i], dataBehavior[i], dataClassification[i])
             listFamili.add(famili)
         }

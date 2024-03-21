@@ -7,6 +7,7 @@ import kotlinx.parcelize.Parcelize
 data class Famili(
     var name: String,
     var icon: Int,
+    var review : String,
     var description: String,
     var period: String,
     var characteristic: String,

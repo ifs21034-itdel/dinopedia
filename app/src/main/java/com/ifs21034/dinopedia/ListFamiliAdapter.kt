@@ -25,6 +25,7 @@ class ListFamiliAdapter(private val listFamili: ArrayList<Famili>) :
         val famili = listFamili[position]
         holder.binding.ivItemFamili.setImageResource(famili.icon)
         holder.binding.tvItemFamili.text = famili.name
+        holder.binding.tvItemReview.text = famili.review
         holder.itemView.setOnClickListener {
             onItemClickCallback.onItemClicked(listFamili[holder.adapterPosition])
         }
