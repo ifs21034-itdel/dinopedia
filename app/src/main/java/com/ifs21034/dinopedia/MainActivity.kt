@@ -40,8 +40,8 @@ class MainActivity : AppCompatActivity() {
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when (item.itemId) {
             R.id.menu_about -> {
-                Toast.makeText(this, "Memilih menu about",
-                    Toast.LENGTH_SHORT).show()
+                val intent = Intent(this@MainActivity, DetailProfileActivity::class.java)
+                startActivity(intent)
             }
             else -> return super.onOptionsItemSelected(item)
         }

@@ -21,21 +21,17 @@ class FamiliActivity : AppCompatActivity() {
         binding = ActivityFamiliBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        supportActionBar?.setDisplayHomeAsUpEnabled(true)
+
         binding.rvFamili.setHasFixedSize(false)
         dataFamilis.addAll(getListFamilis())
         showRecyclerList()
     }
 
-    override fun onCreateOptionsMenu(menu: Menu): Boolean {
-        menuInflater.inflate(R.menu.menu_main, menu)
-        return true
-    }
-
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when (item.itemId) {
-            R.id.menu_about -> {
-                val intent = Intent(this@FamiliActivity, DetailProfileActivity::class.java)
-                startActivity(intent)
+            android.R.id.home -> {
+                finish()
             }
             else -> return super.onOptionsItemSelected(item)
         }
@@ -99,4 +95,5 @@ class FamiliActivity : AppCompatActivity() {
         intentWithData.putExtra(DetailFamiliActivity.EXTRA_FAMILI, famili)
         startActivity(intentWithData)
     }
+
 }
