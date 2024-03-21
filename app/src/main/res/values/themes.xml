@@ -89,4 +89,10 @@
         <item name="android:includeFontPadding">false</item>
         <item name="android:fontFamily">@font/poppins_regular</item>
     </style>
+
+    <style name="Theme.App.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/soft_yellow</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_dinosaur_splash</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.DinoPedia</item>
+    </style>
 </resources>
