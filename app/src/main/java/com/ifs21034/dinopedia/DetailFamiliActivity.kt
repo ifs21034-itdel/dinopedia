@@ -7,7 +7,7 @@ import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import com.ifs21034.dinopedia.databinding.ActivityDetailFamiliBinding
 
-class DetailFamiliActivity : AppCompatActivity() {
+class  DetailFamiliActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityDetailFamiliBinding
     private var famili: Famili? = null

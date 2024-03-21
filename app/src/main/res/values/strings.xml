@@ -128,6 +128,7 @@
 
     <string name="info_dino_icon">Ikon Dinosaurus</string>
     <string name="info_dino_name">Nama Dinosaurus</string>
+    <string name="info_dino_review">Deskripsi Singkat</string>
     <string name="info_dino_desc">Deskripsi</string>
     <string name="info_dino_characteristic">Karakteristik</string>
     <string name="info_dino_group">Kelompok</string>
