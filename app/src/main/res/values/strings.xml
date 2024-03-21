@@ -184,25 +184,25 @@
     </string-array>
 
     <string-array name="dino_desc">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Tyrannosaurus rex, often referred to as T. rex, is one of the most iconic dinosaurs of all time, known for its large size, powerful jaws, and tiny forelimbs. This fearsome predator roamed North America during the Late Cretaceous period, approximately 68 to 66 million years ago, dominating its ecosystem as one of the largest land carnivores ever to exist.</item>
+        <item>Albertosaurus, a close relative of Tyrannosaurus rex, was a formidable predator that inhabited western North America around 70 million years ago during the Late Cretaceous period. With its sleek, agile build and sharp teeth, Albertosaurus likely hunted in packs, making it a fearsome apex predator of its time.</item>
+        <item>Tarbosaurus, a genus of large theropod dinosaur, roamed what is now modern-day Mongolia and China during the Late Cretaceous period, approximately 70 to 65 million years ago. Similar in appearance to Tyrannosaurus rex, Tarbosaurus was a formidable carnivore, possessing powerful jaws lined with serrated teeth, enabling it to efficiently hunt and feed on large prey in its ecosystem.</item>
+        <item>Brachiosaurus, a massive sauropod dinosaur, lived during the Late Jurassic period, approximately 154 to 153 million years ago, in what is now North America. Known for its long neck and towering stature, Brachiosaurus was one of the largest land animals to have ever existed, utilizing its height to reach vegetation in tall trees, making it a prominent herbivore of its time.</item>
+        <item>Diplodocus, another iconic sauropod dinosaur, inhabited western North America during the Late Jurassic period, around 154 to 152 million years ago. With its long, whip-like tail and elongated neck, Diplodocus was a herbivorous giant, likely consuming vast amounts of vegetation to sustain its massive size.</item>
+        <item>Apatosaurus, formerly known as Brontosaurus, was a colossal sauropod dinosaur that lived in North America during the Late Jurassic period, approximately 154 to 152 million years ago. Recognizable by its long neck, small head, and massive body, Apatosaurus was a herbivore that likely grazed on vegetation to sustain its immense size.</item>
+        <item>Parasaurolophus was a herbivorous dinosaur that lived during the Late Cretaceous period, approximately 76 to 73 million years ago, in what is now North America. Known for its distinctive cranial crest, which resembled a hollow tube extending backward from its skull, Parasaurolophus likely used vocalizations produced by air passing through this crest for communication and possibly for display purposes.</item>
+        <item>Edmontosaurus, a large duck-billed dinosaur, inhabited North America during the Late Cretaceous period, approximately 73 to 66 million years ago. With its numerous teeth and powerful jaws adapted for grinding plant matter, Edmontosaurus was a herbivore that likely foraged on a variety of vegetation in its environment.</item>
+        <item>Maiasaura, a duck-billed dinosaur, lived during the Late Cretaceous period, approximately 76 to 75 million years ago, in what is now western North America. Named "good mother lizard," Maiasaura is known for its nesting sites, where fossils suggest it cared for its young, indicating social behavior and parental care among dinosaurs.</item>
+        <item>Stegosaurus, an iconic herbivorous dinosaur of the Late Jurassic period, around 155 to 150 million years ago, inhabited western North America. Characterized by its distinctive double row of large bony plates along its back and formidable spiked tail, Stegosaurus likely used these features for defense against predators and possibly for display purposes.</item>
+        <item>Kentrosaurus, a genus of stegosaurid dinosaur, lived during the Late Jurassic period, approximately 156 to 150 million years ago, in what is now Tanzania. Similar to Stegosaurus, Kentrosaurus possessed rows of bony plates and spikes along its back and tail, likely serving as defense mechanisms against predators.</item>
+        <item>Ornithomimus, a fast and agile dinosaur, lived during the Late Cretaceous period, approximately 76 to 65 million years ago, in what is now North America and Asia. Resembling an ostrich, Ornithomimus was a bipedal dinosaur with long legs and a toothless beak, likely adapted for a diet of plants, small animals, and possibly eggs.</item>
+        <item>Gallimimus, known for its remarkable speed and bird-like appearance, lived during the Late Cretaceous period, around 70 to 66 million years ago, in what is now Mongolia. With its long, slender legs and lightweight build, Gallimimus was one of the fastest dinosaurs, likely using its speed to evade predators and capture prey.</item>
+        <item>Velociraptor, a small but highly intelligent dinosaur, lived during the Late Cretaceous period, approximately 75 to 71 million years ago, in what is now Mongolia and China. Recognizable for its distinctive sickle-shaped claw on each foot, Velociraptor was likely a swift and agile predator, possibly hunting in packs and using teamwork to take down larger prey.</item>
+        <item>Deinonychus, a close relative of Velociraptor, inhabited North America during the Early Cretaceous period, approximately 115 to 108 million years ago. With its sharp claws, agile build, and possibly feathers, Deinonychus was a formidable predator, likely hunting in packs and displaying advanced predatory behaviors.</item>
+        <item>Triceratops, a well-known herbivorous dinosaur, lived during the Late Cretaceous period, approximately 68 to 66 million years ago, in what is now North America. Recognizable by its large bony frill and three distinctive horns on its face, Triceratops was one of the last and largest of the horned dinosaurs, likely using its horns and frill for defense against predators and intraspecific combat.</item>
+        <item>Torosaurus, closely related to Triceratops, lived during the Late Cretaceous period, approximately 70 to 65 million years ago, in what is now North America. Characterized by its elongated frill with large openings, Torosaurus was a herbivorous dinosaur that likely shared similar behaviors and ecological roles with its relative Triceratops.</item>
+        <item>Ankylosaurus, a heavily armored herbivorous dinosaur, lived during the Late Cretaceous period, approximately 68 to 66 million years ago, in what is now North America. Covered in bony plates and armed with a club-like tail, Ankylosaurus was a formidable defensive herbivore, likely using its armor and tail weapon to deter predators.</item>
+        <item>Euoplocephalus, another armored dinosaur closely related to Ankylosaurus, inhabited western North America during the Late Cretaceous period, around 76 to 75 million years ago. With its thick bony plates and tail club, Euoplocephalus was a heavily armored herbivore, likely employing similar defensive strategies against predators as its relatives.</item>
     </string-array>
 
     <string-array name="dino_review">
@@ -228,157 +228,157 @@
     </string-array>
 
     <string-array name="dino_characteristic">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Dikenal dengan ukuran besar, rahang yang kuat, gigi yang tajam, dan lengan kecilnya. </item>
+        <item>Predator tangguh dengan tubuh ramping, gigi tajam, dan kemungkinan berburu dalam kelompok untuk meningkatkan efektivitas pemburuan.</item>
+        <item>Mirip dengan T. rex, dengan rahang yang kuat dan gigi yang bergerigi, Tarbosaurus adalah karnivora besar yang mendominasi lingkungannya.</item>
+        <item> Sauropoda raksasa dengan leher panjang yang memungkinkannya untuk mencapai dedaunan di pohon-pohon tinggi, menjadi salah satu herbivora terbesar pada masanya.</item>
+        <item>Sauropoda dengan ekor panjang yang berfungsi sebagai cambuk dan leher yang memanjang untuk mencapai vegetasi tinggi, membantu menjaga ukuran tubuh yang besar.</item>
+        <item>Sauropoda besar dengan leher panjang dan tubuh yang besar, sering kali dikaitkan dengan nama Brontosaurus, menjadi bagian penting dari ekosistem sebagai herbivora besar.</item>
+        <item>Dinosaurus herbivora dengan tanduk kranial yang khas, mungkin digunakan untuk komunikasi dan tampilan dalam kelompoknya.</item>
+        <item>Dinosaurus bebek besar dengan gigi yang banyak dan kuat, cocok untuk menggiling materi tanaman, dan merupakan bagian penting dari rantai makanan sebagai herbivora besar.</item>
+        <item>Dinosaurus bebek yang terkenal dengan perilaku perawatan orang tua, menunjukkan tingkat sosialitas dan perawatan orang tua di antara dinosaurus.</item>
+        <item>Dinosaurus herbivora dengan bonyok besar di punggungnya yang berfungsi sebagai alat pertahanan dan ekor berduri yang digunakan untuk pertahanan dan mungkin tampilan.</item>
+        <item>Mirip dengan Stegosaurus, dengan bonyok dan duri di punggung dan ekor, Kentrosaurus juga menggunakan struktur ini sebagai pertahanan terhadap predator.</item>
+        <item> Dinosaurus cepat dan lincah yang menyerupai burung dengan kaki panjang dan paruh tanpa gigi, mungkin mencakup diet yang beragam dari tumbuhan hingga telur dan binatang kecil.</item>
+        <item>Dinosaurus berjalan cepat dengan penampilan yang menyerupai burung, digambarkan dengan kaki panjang dan tubuh ringan yang memungkinkannya untuk berlari cepat untuk menghindari predator atau mengejar mangsa.</item>
+        <item>Dinosaurus kecil yang cerdas dan kuat dengan cakar sikat pada kaki, diperkirakan berburu dalam kelompok dan menggunakan strategi pengepungan untuk menaklukkan mangsa yang lebih besar.</item>
+        <item>Mirip dengan Velociraptor, Deinonychus juga merupakan dinosaurus kecil dan cerdas dengan cakar yang mematikan, berburu dalam kelompok dan menunjukkan perilaku predator yang maju.</item>
+        <item>Herbivora besar dengan frill besar dan tiga tanduk di wajahnya, digunakan untuk pertahanan terhadap predator dan mungkin dalam pertempuran antar-spesies.</item>
+        <item>Mirip dengan Triceratops, dengan frill yang lebih panjang dan besar, Torosaurus adalah herbivora yang juga mengandalkan struktur ini untuk pertahanan dan mungkin tampilan.</item>
+        <item>Herbivora berat yang dilapisi oleh lempeng tulang dan bersenjatakan ekor berbentuk gada, Ankylosaurus adalah dinosaurus yang sangat berdefendan.</item>
+        <item>Dinosaurus yang juga dilapisi oleh lempeng tulang dan memiliki ekor yang berat, Euoplocephalus memiliki perlindungan tambahan dari predator dengan menggunakan struktur tersebut.</item>
     </string-array>
 
     <string-array name="dino_group">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Tyrannosauridae</item>
+        <item>Tyrannosauridae</item>
+        <item>Tyrannosauridae</item>
+        <item>Diplodocidae</item>
+        <item>Diplodocidae</item>
+        <item>Diplodocidae</item>
+        <item>Hadrosauridae</item>
+        <item>Hadrosauridae</item>
+        <item>Hadrosauridae</item>
+        <item>Stegosauridae</item>
+        <item>Stegosauridae</item>
+        <item>Ornithomimosauria</item>
+        <item>Ornithomimosauria</item>
+        <item>Dromaeosauridae</item>
+        <item>Dromaeosauridae</item>
+        <item>Ceratopsidae</item>
+        <item>Ceratopsidae</item>
+        <item>Ankylosauridae</item>
+        <item>Ankylosauridae</item>
     </string-array>
 
     <string-array name="dino_habitat">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Berasal dari Amerika Utara pada masa Kretaseus Akhir, T. rex hidup di berbagai habitat, termasuk hutan datar, daerah rawa, dan dataran banjir.</item>
+        <item>Secara khusus ditemukan di bagian barat Amerika Utara pada periode Kretaseus Akhir, Albertosaurus mungkin mendiami hutan datar, padang rumput, dan daerah rawa.</item>
+        <item> Dinosaurs ini diyakini berasal dari wilayah yang sekarang menjadi Mongolia dan Cina selama periode Kretaseus Akhir, mungkin menghuni dataran datar, padang rumput, dan hutan-hutan tropis.</item>
+        <item>Dinosaurs ini berasal dari Amerika Utara pada periode Jura Akhir dan diyakini hidup di daerah dataran rendah, wilayah hutan, dan mungkin daerah rawa.</item>
+        <item>Ditemukan di Amerika Utara pada periode Jura Akhir, Diplodocus mendiami dataran tinggi, dataran banjir, dan hutan-hutan terbuka.</item>
+        <item> Dinosaurs ini juga berasal dari Amerika Utara pada periode Jura Akhir dan mungkin menghuni habitat serupa dengan Diplodocus, termasuk dataran tinggi dan daerah hutan.</item>
+        <item>Ditemukan di Amerika Utara pada periode Kretaseus Akhir, Parasaurolophus hidup di daerah rawa, dataran banjir, dan padang rumput yang berair.</item>
+        <item>Dinosaurs ini mendiami Amerika Utara pada periode Kretaseus Akhir dan kemungkinan besar hidup di daerah rawa, hutan datar, dan padang rumput.</item>
+        <item>Ditemukan di Amerika Utara pada periode Kretaseus Akhir, Maiasaura mungkin hidup di daerah rawa, padang rumput, dan hutan terbuka.</item>
+        <item>Berasal dari Amerika Utara pada periode Jura Akhir, Stegosaurus hidup di habitat yang mirip dengan Brachiosaurus, termasuk dataran tinggi dan hutan terbuka.</item>
+        <item>Dinosaurs ini berasal dari Afrika pada periode Jura Akhir, mungkin menghuni padang rumput, hutan datar, dan daerah rawa di benua tersebut.</item>
+        <item>Ditemukan di Amerika Utara dan Mongolia pada periode Kretaseus Akhir, keduanya hidup di habitat yang beragam, termasuk padang rumput, hutan terbuka, dan daerah rawa.</item>
+        <item>Ditemukan di Amerika Utara dan Mongolia pada periode Kretaseus Akhir, hidup di padang rumput, hutan terbuka, dan daerah rawa.</item>
+        <item>Ditemukan di Asia dan Amerika Utara pada periode Kretaseus Akhir,mendiami hutan datar, padang rumput, dan daerah rawa.</item>
+        <item>Ditemukan di Asia dan Amerika Utara pada periode Kretaseus Akhir, mendiami hutan datar, padang rumput, dan daerah rawa.</item>
+        <item>Berasal dari Amerika Utara pada periode Kretaseus Akhir, menghuni habitat yang beragam, termasuk hutan datar, padang rumput, dan daerah rawa.</item>
+        <item>Berasal dari Amerika Utara pada periode Kretaseus Akhir, menghuni habitat yang beragam, termasuk hutan datar, padang rumput, dan daerah rawa.</item>
+        <item>Ditemukan di Amerika Utara pada periode Kretaseus Akhir, mendiami padang rumput, dataran tinggi, dan daerah rawa.</item>
+        <item>Ditemukan di Amerika Utara pada periode Kretaseus Akhir, mendiami padang rumput, dataran tinggi, dan daerah rawa.</item>
     </string-array>
 
     <string-array name="dino_food">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Karnivora besar yang memakan hewan-hewan lain, termasuk dinosaurus herbivora seperti Triceratops dan Edmontosaurus, serta mungkin mangsa-mangsa lain seperti hadrosaurids dan sauropods.</item>
+        <item>Sebagai kerabat dekat T. rex, Albertosaurus juga merupakan karnivora yang memakan dinosaurus dan hewan-hewan kecil lainnya.</item>
+        <item>Mirip dengan T. rex, Tarbosaurus juga merupakan karnivora yang memakan berbagai jenis hewan, termasuk dinosaurus dan hewan-hewan lainnya di habitatnya.</item>
+        <item>Herbivora besar yang memakan dedaunan dan tumbuhan tinggi, mungkin mencapai pucuk-pucuk pohon untuk mencari makanan.</item>
+        <item>Seperti Brachiosaurus, Diplodocus juga merupakan herbivora yang memakan dedaunan dan tumbuhan tinggi di habitatnya.</item>
+        <item>Herbivora besar yang memakan dedaunan dan tumbuhan tinggi, sering kali dikaitkan dengan Brachiosaurus dalam pola makanannya.</item>
+        <item>Herbivora yang memakan dedaunan dan tumbuhan rendah, mungkin juga mengonsumsi biji-bijian dan buah-buahan.</item>
+        <item>Herbivora yang memakan dedaunan, tumbuhan rendah, dan mungkin juga biji-bijian serta buah-buahan di habitatnya.</item>
+        <item>Herbivora yang memakan dedaunan, tumbuhan rendah, dan mungkin juga biji-bijian serta buah-buahan di habitatnya.</item>
+        <item>Herbivora yang memakan dedaunan, tumbuhan rendah, dan mungkin juga biji-bijian serta buah-buahan di habitatnya.</item>
+        <item>Herbivora yang memakan dedaunan, tumbuhan rendah, dan mungkin juga biji-bijian serta buah-buahan di habitatnya.</item>
+        <item>Karnivora kecil atau omnivora yang memakan serangga, reptil kecil, telur, tumbuhan, dan mungkin juga bangkai.</item>
+        <item>Karnivora kecil atau omnivora yang memakan serangga, reptil kecil, mamalia kecil, dan mungkin juga telur dan bangkai.</item>
+        <item>Karnivora kecil atau omnivora yang memakan serangga, reptil kecil, mamalia kecil, dan mungkin juga telur dan bangkai.</item>
+        <item>Karnivora kecil atau omnivora yang memakan serangga, reptil kecil, mamalia kecil, dan mungkin juga telur dan bangkai.</item>
+        <item>Herbivora besar yang memakan dedaunan, tumbuhan rendah, dan mungkin juga biji-bijian serta buah-buahan di habitatnya.</item>
+        <item>Herbivora besar yang memakan dedaunan, tumbuhan rendah, dan mungkin juga biji-bijian serta buah-buahan di habitatnya.</item>
+        <item>Herbivora yang memakan dedaunan, tumbuhan rendah, dan mungkin juga biji-bijian serta buah-buahan di habitatnya.</item>
+        <item>Herbivora yang memakan dedaunan, tumbuhan rendah, dan mungkin juga biji-bijian serta buah-buahan di habitatnya.</item>
     </string-array>
 
     <string-array name="dino_length">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Sekitar 12-13 meter (39-43 kaki)</item>
+        <item>Sekitar 9-10 meter (30-33 kaki)</item>
+        <item>Sekitar 10-12 meter (33-40 kaki)</item>
+        <item>Sekitar 21-24 meter (69-79 kaki)</item>
+        <item>Sekitar 25-30 meter (82-98 kaki)</item>
+        <item>Sekitar 21-24 meter (69-79 kaki)</item>
+        <item>Sekitar 9-10 meter (30-33 kaki)</item>
+        <item>Sekitar 12-13 meter (39-43 kaki)</item>
+        <item>Sekitar 9 meter (30 kaki)</item>
+        <item>Sekitar 5-6 meter (16-20 kaki)</item>
+        <item>Sekitar 3-4 meter (10-13 kaki)</item>
+        <item>Sekitar 6-8 meter (20-26 kaki)</item>
+        <item>Sekitar 1,8 meter (6 kaki)</item>
+        <item>Sekitar 3-4 meter (10-13 kaki)</item>
+        <item>Sekitar 7-9 meter (23-30 kaki)</item>
+        <item>Sekitar 7-9 meter (23-30 kaki)</item>
+        <item>Sekitar 6-8 meter (20-26 kaki)</item>
+        <item>Sekitar 6-7 meter (20-23 kaki)</item>
+        <item>Sekitar 6-7 meter (20-23 kaki)</item>
     </string-array>
 
     <string-array name="dino_heigth">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Sekitar 4-6 meter (13-20 kaki) pada pinggul</item>
+        <item>Sekitar 3-4 meter (10-13 kaki) pada pinggul</item>
+        <item>Sekitar 4-5 meter (13-16 kaki) pada pinggul</item>
+        <item>Sekitar 9-12 meter (30-40 kaki)</item>
+        <item>Sekitar 4-5 meter (13-16 kaki) pada pinggul</item>
+        <item>Sekitar 6-7 meter (20-23 kaki) pada pinggul</item>
+        <item>Sekitar 3-4 meter (10-13 kaki) pada pinggul</item>
+        <item>Sekitar 3-4 meter (10-13 kaki) pada pinggul</item>
+        <item>Sekitar 2-3 meter (7-10 kaki) pada pinggul</item>
+        <item>Sekitar 4 meter (13 kaki) pada pinggul</item>
+        <item>Sekitar 2-3 meter (7-10 kaki) pada pinggul</item>
+        <item>Sekitar 2-3 meter (7-10 kaki) pada pinggul</item>
+        <item>Sekitar 3-4 meter (10-13 kaki) pada pinggul</item>
+        <item>Sekitar 0,5-0,6 meter (1,6-2 kaki) pada pinggul</item>
+        <item>Sekitar 1-2 meter (3-7 kaki) pada pinggul</item>
+        <item>Sekitar 3-4 meter (10-13 kaki) pada bahu</item>
+        <item>Sekitar 3-4 meter (10-13 kaki) pada bahu</item>
+        <item>Sekitar 1,5-2 meter (5-7 kaki) pada pinggul</item>
+        <item>Sekitar 2-3 meter (7-10 kaki) pada pinggul</item>
     </string-array>
 
     <string-array name="dino_weight">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Sekitar 8.000-14.000 kilogram (17.637-30.865 pound)</item>
+        <item>Sekitar 2.000-3.000 kilogram (4.409-6.614 pound)</item>
+        <item>Sekitar 5.000-8.000 kilogram (11.023-17.637 pound)</item>
+        <item>Sekitar 30.000-50.000 kilogram (66.138-110.231 pound)</item>
+        <item>Sekitar 10.000-15.000 kilogram (22.046-33.069 pound)</item>
+        <item>Sekitar 20.000-30.000 kilogram (44.092-66.138 pound)</item>
+        <item>Sekitar 2.000-3.000 kilogram (4.409-6.614 pound)</item>
+        <item>Sekitar 4.000-6.000 kilogram (8.818-13.228 pound)</item>
+        <item>Sekitar 2.000-3.000 kilogram (4.409-6.614 pound)</item>
+        <item>Sekitar 2.000-5.000 kilogram (4.409-11.023 pound)</item>
+        <item>Sekitar 1.000-2.000 kilogram (2.205-4.409 pound)</item>
+        <item>Sekitar 200-500 kilogram (441-1.102 pound)</item>
+        <item>Sekitar 500-1.000 kilogram (1.102-2.205 pound)</item>
+        <item>Sekitar 15-20 kilogram (33-44 pound)</item>
+        <item>Sekitar 70-100 kilogram (154-220 pound)</item>
+        <item>Sekitar 6.000-12.000 kilogram (13.228-26.455 pound)</item>
+        <item>Sekitar 6.000-12.000 kilogram (13.228-26.455 pound)</item>
+        <item>Sekitar 4.000-6.000 kilogram (8.818-13.228 pound)</item>
+        <item>Sekitar 2.000-4.000 kilogram (4.409-8.818 pound)</item>
     </string-array>
 
     <string-array name="dino_weakness">
