@@ -169,7 +169,7 @@
         <item>@drawable/sauropodae_diplodocus</item>
         <item>@drawable/sauropodae_apatosaurus</item>
         <item>@drawable/hadrosauridae_parasaurolophus</item>
-        <item>@drawable/hadrosauridae_parasaurolophus</item>
+        <item>@drawable/hadrosauridae_edmontosaurus</item>
         <item>@drawable/hadrosauridae_maiasaura</item>
         <item>@drawable/stegosauridae_stegosaurus</item>
         <item>@drawable/stegosauridae_kentrosaurus</item>
@@ -181,6 +181,29 @@
         <item>@drawable/triceratopsidae_torosaurus</item>
         <item>@drawable/ankylosauridae_ankylosaurus</item>
         <item>@drawable/ankylosauridae_euoplocephalus</item>
+    </string-array>
+
+
+    <string-array name="dino_review">
+        <item>Raja karnivora prasejarah</item>
+        <item>Karnivora yang mirip dengan Tyrannosaurus, tetapi sedikit lebih kecil.</item>
+        <item>Dinosaurus karnivora besar yang mirip dengan Tyrannosaurus.</item>
+        <item>Salah satu dari sauropoda terbesar yang pernah hidup.</item>
+        <item>Sauropoda dengan leher panjang dan ekor yang memanjang.</item>
+        <item>Sauropoda besar dengan tubuh berat dan leher panjang.</item>
+        <item>Dinosaurus herbivora dengan crests unik di kepala.</item>
+        <item>Herbivora dengan gigi yang cocok untuk mengunyah tanaman.</item>
+        <item>Dinosaurus herbivora yang dikenal sebagai "ibu yang baik"</item>
+        <item>Punggung dipenuhi dengan plat dan ekor yang dilengkapi dengan duri.</item>
+        <item>Dinosaurus bertubuh kecil dengan deretan duri di punggungnya.</item>
+        <item>Dinosaurus mirip burung yang cepat dan lentur.</item>
+        <item>Dinosaurus cepat dengan struktur tubuh yang mirip burung.</item>
+        <item>Karnivora kecil dan cerdas dengan cakar tajam.</item>
+        <item>Sering disalahpahami sebagai "raptor".</item>
+        <item>Tiga tanduk dan kerah tulang di belakang kepalanya.</item>
+        <item>Dinosaurus mirip Triceratops.</item>
+        <item>Bertubuh berat dengan pelindung keras di tubuhnya.</item>
+        <item>Herbivora yang mirip Ankylosaurus.</item>
     </string-array>
 
     <string-array name="dino_desc">
@@ -203,28 +226,6 @@
         <item>Torosaurus, closely related to Triceratops, lived during the Late Cretaceous period, approximately 70 to 65 million years ago, in what is now North America. Characterized by its elongated frill with large openings, Torosaurus was a herbivorous dinosaur that likely shared similar behaviors and ecological roles with its relative Triceratops.</item>
         <item>Ankylosaurus, a heavily armored herbivorous dinosaur, lived during the Late Cretaceous period, approximately 68 to 66 million years ago, in what is now North America. Covered in bony plates and armed with a club-like tail, Ankylosaurus was a formidable defensive herbivore, likely using its armor and tail weapon to deter predators.</item>
         <item>Euoplocephalus, another armored dinosaur closely related to Ankylosaurus, inhabited western North America during the Late Cretaceous period, around 76 to 75 million years ago. With its thick bony plates and tail club, Euoplocephalus was a heavily armored herbivore, likely employing similar defensive strategies against predators as its relatives.</item>
-    </string-array>
-
-    <string-array name="dino_review">
-        <item>Raja karnivora prasejarah dengan gigi tajam dan tubuh besar.</item>
-        <item>Karnivora yang mirip dengan Tyrannosaurus, tetapi sedikit lebih kecil.</item>
-        <item>Dinosaurus karnivora besar yang mirip dengan Tyrannosaurus, ditemukan di Asia.</item>
-        <item>Salah satu dari sauropoda terbesar yang pernah hidup, dengan leher yang panjang dan tubuh besar.</item>
-        <item>Sauropoda dengan leher panjang dan ekor yang memanjang.</item>
-        <item>Sauropoda besar dengan tubuh berat dan leher panjang.</item>
-        <item>Dinosaurus herbivora berjalan dua kaki dengan crests unik di kepala.</item>
-        <item>Herbivora berukuran sedang dengan gigi yang cocok untuk mengunyah tanaman.</item>
-        <item>Dinosaurus herbivora yang dikenal sebagai "ibu yang baik" karena perilaku perawatannya terhadap anak-anaknya.</item>
-        <item>Dinosaurus herbivora dengan punggung yang dipenuhi dengan plat dan ekor yang dilengkapi dengan duri.</item>
-        <item>Dinosaurus bertubuh kecil dengan deretan duri di punggungnya.</item>
-        <item>Dinosaurus mirip burung yang cepat dan lentur.</item>
-        <item>Dinosaurus cepat dengan struktur tubuh yang mirip burung.</item>
-        <item>Karnivora kecil dan cerdas dengan cakar tajam.</item>
-        <item>Karnivora dengan ukuran sedang yang sering disalahpahami sebagai "raptor" dalam fiksi populer.</item>
-        <item>Herbivora besar dengan tiga tanduk dan kerah tulang di belakang kepalanya.</item>
-        <item>Dinosaurus mirip Triceratops dengan perbedaan ukuran dan bentuk tanduk.</item>
-        <item>Dinosaurus bertubuh berat dengan pelindung keras di tubuhnya.</item>
-        <item>Herbivora yang mirip Ankylosaurus dengan pelindung keras di tubuhnya.</item>
     </string-array>
 
     <string-array name="dino_characteristic">
@@ -316,69 +317,69 @@
     </string-array>
 
     <string-array name="dino_length">
-        <item>Sekitar 12-13 meter (39-43 kaki)</item>
-        <item>Sekitar 9-10 meter (30-33 kaki)</item>
-        <item>Sekitar 10-12 meter (33-40 kaki)</item>
-        <item>Sekitar 21-24 meter (69-79 kaki)</item>
-        <item>Sekitar 25-30 meter (82-98 kaki)</item>
-        <item>Sekitar 21-24 meter (69-79 kaki)</item>
-        <item>Sekitar 9-10 meter (30-33 kaki)</item>
-        <item>Sekitar 12-13 meter (39-43 kaki)</item>
+        <item>Sekitar 12–13 meter (39–43 kaki)</item>
+        <item>Sekitar 9–10 meter (30–33 kaki)</item>
+        <item>Sekitar 10–12 meter (33–40 kaki)</item>
+        <item>Sekitar 21–24 meter (69–79 kaki)</item>
+        <item>Sekitar 25–30 meter (82–98 kaki)</item>
+        <item>Sekitar 21–24 meter (69–79 kaki)</item>
+        <item>Sekitar 9–10 meter (30–33 kaki)</item>
+        <item>Sekitar 12–13 meter (39–43 kaki)</item>
         <item>Sekitar 9 meter (30 kaki)</item>
-        <item>Sekitar 5-6 meter (16-20 kaki)</item>
-        <item>Sekitar 3-4 meter (10-13 kaki)</item>
-        <item>Sekitar 6-8 meter (20-26 kaki)</item>
+        <item>Sekitar 5–6 meter (16–20 kaki)</item>
+        <item>Sekitar 3–4 meter (10–13 kaki)</item>
+        <item>Sekitar 6–8 meter (20–26 kaki)</item>
         <item>Sekitar 1,8 meter (6 kaki)</item>
-        <item>Sekitar 3-4 meter (10-13 kaki)</item>
-        <item>Sekitar 7-9 meter (23-30 kaki)</item>
-        <item>Sekitar 7-9 meter (23-30 kaki)</item>
-        <item>Sekitar 6-8 meter (20-26 kaki)</item>
-        <item>Sekitar 6-7 meter (20-23 kaki)</item>
-        <item>Sekitar 6-7 meter (20-23 kaki)</item>
+        <item>Sekitar 3–4 meter (10–13 kaki)</item>
+        <item>Sekitar 7–9 meter (23–30 kaki)</item>
+        <item>Sekitar 7–9 meter (23–30 kaki)</item>
+        <item>Sekitar 6–8 meter (20–26 kaki)</item>
+        <item>Sekitar 6–7 meter (20–23 kaki)</item>
+        <item>Sekitar 6–7 meter (20–23 kaki)</item>
     </string-array>
 
     <string-array name="dino_heigth">
-        <item>Sekitar 4-6 meter (13-20 kaki) pada pinggul</item>
-        <item>Sekitar 3-4 meter (10-13 kaki) pada pinggul</item>
-        <item>Sekitar 4-5 meter (13-16 kaki) pada pinggul</item>
-        <item>Sekitar 9-12 meter (30-40 kaki)</item>
-        <item>Sekitar 4-5 meter (13-16 kaki) pada pinggul</item>
-        <item>Sekitar 6-7 meter (20-23 kaki) pada pinggul</item>
-        <item>Sekitar 3-4 meter (10-13 kaki) pada pinggul</item>
-        <item>Sekitar 3-4 meter (10-13 kaki) pada pinggul</item>
-        <item>Sekitar 2-3 meter (7-10 kaki) pada pinggul</item>
+        <item>Sekitar 4–6 meter (13–20 kaki) pada pinggul</item>
+        <item>Sekitar 3–4 meter (10–13 kaki) pada pinggul</item>
+        <item>Sekitar 4–5 meter (13–16 kaki) pada pinggul</item>
+        <item>Sekitar 9–12 meter (30–40 kaki)</item>
+        <item>Sekitar 4–5 meter (13–16 kaki) pada pinggul</item>
+        <item>Sekitar 6–7 meter (20–23 kaki) pada pinggul</item>
+        <item>Sekitar 3–4 meter (10–13 kaki) pada pinggul</item>
+        <item>Sekitar 3–4 meter (10–13 kaki) pada pinggul</item>
+        <item>Sekitar 2–3 meter (7–10 kaki) pada pinggul</item>
         <item>Sekitar 4 meter (13 kaki) pada pinggul</item>
-        <item>Sekitar 2-3 meter (7-10 kaki) pada pinggul</item>
-        <item>Sekitar 2-3 meter (7-10 kaki) pada pinggul</item>
-        <item>Sekitar 3-4 meter (10-13 kaki) pada pinggul</item>
-        <item>Sekitar 0,5-0,6 meter (1,6-2 kaki) pada pinggul</item>
-        <item>Sekitar 1-2 meter (3-7 kaki) pada pinggul</item>
-        <item>Sekitar 3-4 meter (10-13 kaki) pada bahu</item>
-        <item>Sekitar 3-4 meter (10-13 kaki) pada bahu</item>
-        <item>Sekitar 1,5-2 meter (5-7 kaki) pada pinggul</item>
-        <item>Sekitar 2-3 meter (7-10 kaki) pada pinggul</item>
+        <item>Sekitar 2–3 meter (7–10 kaki) pada pinggul</item>
+        <item>Sekitar 2–3 meter (7–10 kaki) pada pinggul</item>
+        <item>Sekitar 3–4 meter (10–13 kaki) pada pinggul</item>
+        <item>Sekitar 0,5–0,6 meter (1,6–2 kaki) pada pinggul</item>
+        <item>Sekitar 1–2 meter (3–7 kaki) pada pinggul</item>
+        <item>Sekitar 3–4 meter (10–13 kaki) pada bahu</item>
+        <item>Sekitar 3–4 meter (10–13 kaki) pada bahu</item>
+        <item>Sekitar 1,5–2 meter (5–7 kaki) pada pinggul</item>
+        <item>Sekitar 2–3 meter (7–10 kaki) pada pinggul</item>
     </string-array>
 
     <string-array name="dino_weight">
-        <item>Sekitar 8.000-14.000 kilogram (17.637-30.865 pound)</item>
-        <item>Sekitar 2.000-3.000 kilogram (4.409-6.614 pound)</item>
-        <item>Sekitar 5.000-8.000 kilogram (11.023-17.637 pound)</item>
-        <item>Sekitar 30.000-50.000 kilogram (66.138-110.231 pound)</item>
-        <item>Sekitar 10.000-15.000 kilogram (22.046-33.069 pound)</item>
-        <item>Sekitar 20.000-30.000 kilogram (44.092-66.138 pound)</item>
-        <item>Sekitar 2.000-3.000 kilogram (4.409-6.614 pound)</item>
-        <item>Sekitar 4.000-6.000 kilogram (8.818-13.228 pound)</item>
-        <item>Sekitar 2.000-3.000 kilogram (4.409-6.614 pound)</item>
-        <item>Sekitar 2.000-5.000 kilogram (4.409-11.023 pound)</item>
-        <item>Sekitar 1.000-2.000 kilogram (2.205-4.409 pound)</item>
-        <item>Sekitar 200-500 kilogram (441-1.102 pound)</item>
-        <item>Sekitar 500-1.000 kilogram (1.102-2.205 pound)</item>
-        <item>Sekitar 15-20 kilogram (33-44 pound)</item>
-        <item>Sekitar 70-100 kilogram (154-220 pound)</item>
-        <item>Sekitar 6.000-12.000 kilogram (13.228-26.455 pound)</item>
-        <item>Sekitar 6.000-12.000 kilogram (13.228-26.455 pound)</item>
-        <item>Sekitar 4.000-6.000 kilogram (8.818-13.228 pound)</item>
-        <item>Sekitar 2.000-4.000 kilogram (4.409-8.818 pound)</item>
+        <item>Sekitar 8.000–14.000 kilogram (17.637–30.865 pound)</item>
+        <item>Sekitar 2.000–3.000 kilogram (4.409–6.614 pound)</item>
+        <item>Sekitar 5.000–8.000 kilogram (11.023–17.637 pound)</item>
+        <item>Sekitar 30.000–50.000 kilogram (66.138–110.231 pound)</item>
+        <item>Sekitar 10.000–15.000 kilogram (22.046–33.069 pound)</item>
+        <item>Sekitar 20.000–30.000 kilogram (44.092–66.138 pound)</item>
+        <item>Sekitar 2.000–3.000 kilogram (4.409–6.614 pound)</item>
+        <item>Sekitar 4.000–6.000 kilogram (8.818–13.228 pound)</item>
+        <item>Sekitar 2.000–3.000 kilogram (4.409–6.614 pound)</item>
+        <item>Sekitar 2.000–5.000 kilogram (4.409–11.023 pound)</item>
+        <item>Sekitar 1.000–2.000 kilogram (2.205–4.409 pound)</item>
+        <item>Sekitar 200–500 kilogram (441–1.102 pound)</item>
+        <item>Sekitar 500–1.000 kilogram (1.102–2.205 pound)</item>
+        <item>Sekitar 15–20 kilogram (33–44 pound)</item>
+        <item>Sekitar 70–100 kilogram (154–220 pound)</item>
+        <item>Sekitar 6.000–12.000 kilogram (13.228–26.455 pound)</item>
+        <item>Sekitar 6.000–12.000 kilogram (13.228–26.455 pound)</item>
+        <item>Sekitar 4.000–6.000 kilogram (8.818–13.228 pound)</item>
+        <item>Sekitar 2.000–4.000 kilogram (4.409–8.818 pound)</item>
     </string-array>
 
     <string-array name="dino_weakness">

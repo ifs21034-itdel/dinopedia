@@ -7,8 +7,8 @@ import kotlinx.parcelize.Parcelize
 data class Dinosaur(
     var name: String,
     var icon: Int,
-    var description: String,
     var review: String,
+    var description: String,
     var characteristic: String,
     var group: String,
     var habitat: String,

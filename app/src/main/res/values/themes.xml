@@ -6,7 +6,7 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
         <item name="colorPrimary">@color/blue</item>
         <item name="myBackground">@color/light_primary</item>
-        <item name="myContainerBackground">@color/soft_grey</item>
+        <item name="myContainerBackground">@color/blue</item>
         <item name="myColorText">@color/light_text</item>
         <item name="myColorTextMuted">@color/light_muted</item>
         <item name="myColorNavBar">@color/white</item>

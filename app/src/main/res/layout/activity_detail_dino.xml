@@ -10,8 +10,7 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:paddingBottom="50dp">
+        android:layout_height="wrap_content">
 
         <ImageView
             android:id="@+id/ivDetailIcon"
@@ -31,6 +30,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="32dp"
             android:text="@string/info_dino_name"
+            android:textColor="?attr/myColorText"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
@@ -56,6 +56,7 @@
             android:layout_marginStart="16dp"
             android:layout_marginTop="52dp"
             android:text="@string/info_dino_desc"
+            android:textColor="?attr/myColorText"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/ivDetailIcon" />
 
@@ -81,6 +82,7 @@
             android:layout_marginStart="16dp"
             android:layout_marginTop="24dp"
             android:text="@string/info_dino_characteristic"
+            android:textColor="?attr/myColorText"
             android:textSize="20sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
@@ -93,6 +95,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:layout_marginEnd="16dp"
+            android:shadowColor="?attr/myColorTextMuted"
             android:text="@string/info_dino_characteristic"
             android:textSize="16sp"
             app:layout_constraintEnd_toEndOf="parent"
@@ -108,6 +111,7 @@
             android:layout_marginStart="16dp"
             android:layout_marginTop="24dp"
             android:text="@string/info_dino_group"
+            android:textColor="?attr/myColorText"
             android:textSize="20sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
@@ -120,6 +124,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:layout_marginEnd="16dp"
+            android:shadowColor="?attr/myColorTextMuted"
             android:text="@string/info_dino_group"
             android:textAlignment="textStart"
             android:textSize="16sp"
@@ -137,6 +142,7 @@
             android:layout_marginStart="16dp"
             android:layout_marginTop="24dp"
             android:text="@string/info_dino_habitat"
+            android:textColor="?attr/myColorText"
             android:textSize="20sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
@@ -149,6 +155,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:layout_marginEnd="16dp"
+            android:shadowColor="?attr/myColorTextMuted"
             android:text="@string/info_famili_habitat"
             android:textAlignment="textStart"
             android:textSize="16sp"
@@ -164,6 +171,7 @@
             android:layout_marginStart="16dp"
             android:layout_marginTop="24dp"
             android:text="@string/info_dino_food"
+            android:textColor="?attr/myColorText"
             android:textSize="20sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
@@ -176,6 +184,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:layout_marginEnd="16dp"
+            android:shadowColor="?attr/myColorTextMuted"
             android:text="@string/info_dino_food"
             android:textAlignment="textStart"
             android:textSize="16sp"
@@ -191,6 +200,7 @@
             android:layout_marginStart="16dp"
             android:layout_marginTop="24dp"
             android:text="@string/info_dino_length"
+            android:textColor="?attr/myColorText"
             android:textSize="20sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
@@ -203,6 +213,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:layout_marginEnd="16dp"
+            android:shadowColor="?attr/myColorTextMuted"
             android:text="@string/info_dino_length"
             android:textAlignment="textStart"
             android:textSize="16sp"
@@ -217,7 +228,8 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:layout_marginTop="24dp"
-            android:text="@string/info_dino_length"
+            android:text="@string/info_dino_height"
+            android:textColor="?attr/myColorText"
             android:textSize="20sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
@@ -230,6 +242,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:layout_marginEnd="16dp"
+            android:shadowColor="?attr/myColorTextMuted"
             android:text="@string/info_dino_height"
             android:textAlignment="textStart"
             android:textSize="16sp"
@@ -244,7 +257,8 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:layout_marginTop="24dp"
-            android:text="@string/info_dino_height"
+            android:text="@string/info_dino_weight"
+            android:textColor="?attr/myColorText"
             android:textSize="20sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
@@ -257,6 +271,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:layout_marginEnd="16dp"
+            android:shadowColor="?attr/myColorTextMuted"
             android:text="@string/info_dino_weight"
             android:textAlignment="textStart"
             android:textSize="16sp"
@@ -272,6 +287,7 @@
             android:layout_marginStart="16dp"
             android:layout_marginTop="24dp"
             android:text="@string/info_dino_weakness"
+            android:textColor="?attr/myColorText"
             android:textSize="20sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
@@ -284,12 +300,27 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:layout_marginEnd="16dp"
+            android:shadowColor="?attr/myColorTextMuted"
             android:text="@string/info_dino_weakness"
             android:textAlignment="textStart"
             android:textSize="16sp"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/tvTitle9" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            android:backgroundTint="?attr/myColorText"
+            android:text="Button"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvDetailWeakness" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
