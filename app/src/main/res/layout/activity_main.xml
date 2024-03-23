@@ -12,7 +12,8 @@
         android:id="@+id/constrainLayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="?attr/myBackground">
+        android:background="?attr/myBackground"
+        tools:ignore="ScrollViewSize">
 
         <ImageView
             android:id="@+id/ivLogoMain"

@@ -1,6 +1,7 @@
 package com.ifs21034.dinopedia
 
 import android.R
+import android.content.Intent
 import android.os.Build
 import android.os.Bundle
 import android.view.MenuItem
@@ -23,6 +24,12 @@ class  DetailFamiliActivity : AppCompatActivity() {
         } else {
             @Suppress("DEPRECATION")
             intent.getParcelableExtra(EXTRA_FAMILI)
+        }
+
+        binding.btnDinoMembers.setOnClickListener {
+            val intentWithData = Intent(this@DetailFamiliActivity, DinosaurActivity::class.java)
+            intentWithData.putExtra(DinosaurActivity.EXTRA_FAMILI, famili!!)
+            startActivity(intentWithData)
         }
 
         supportActionBar?.setDisplayHomeAsUpEnabled(true)

@@ -57,12 +57,18 @@ class FamiliActivity : AppCompatActivity() {
             resources.getStringArray(R.array.famili_behavior)
         val dataClassification =
             resources.getStringArray(R.array.famili_classification)
+        val startIndex =
+            resources.getStringArray(R.array.famili_member_start)
+        val endIndex =
+            resources.getStringArray(R.array.famili_member_finish)
 
         val listFamili = ArrayList<Famili>()
         for (i in dataName.indices) {
             val famili = Famili(dataName[i],
                 dataIcon.getResourceId(i, -1),dataReview[i], dataDescription[i],
-                dataPeriod[i], dataCharacteristic[i], dataHabitat[i], dataBehavior[i], dataClassification[i])
+                dataPeriod[i], dataCharacteristic[i], dataHabitat[i], dataBehavior[i], dataClassification[i],
+                startIndex[i].toInt(), endIndex[i].toInt()
+            )
             listFamili.add(famili)
         }
         return listFamili

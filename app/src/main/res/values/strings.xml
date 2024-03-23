@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Dino Pedia</string>
     <string name="about">About</string>
     <string name="nim">11S21034</string>
@@ -115,14 +115,36 @@
     </string-array>
 
     <string-array name="famili_classification">
-        <item>Famili: Tyrannosauridae.</item>
-        <item>Famili: Sauropodae.</item>
-        <item>Famili: Hadrosauridae.</item>
-        <item>Famili: Stegosauridae.</item>
-        <item>Famili: Ornithomimidae.</item>
-        <item>Famili: Velociraptoridae.</item>
-        <item>Famili: Triceratopsidae.</item>
-        <item>Famili: Ankylosauridae.</item>
+        <item>Tyrannosauridae</item>
+        <item>Sauropodae</item>
+        <item>Hadrosauridae</item>
+        <item>Stegosauridae</item>
+        <item>Ornithomimidae</item>
+        <item>Velociraptoridae</item>
+        <item>Triceratopsidae</item>
+        <item>Ankylosauridae</item>
+    </string-array>
+
+    <string-array name="famili_member_start">
+        <item>0</item>
+        <item>3</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+    </string-array>
+
+    <string-array name="famili_member_finish">
+        <item>2</item>
+        <item>5</item>
+        <item>7</item>
+        <item>9</item>
+        <item>11</item>
+        <item>13</item>
+        <item>15</item>
+        <item>18</item>
     </string-array>
 
 
@@ -138,6 +160,7 @@
     <string name="info_dino_height">Tinggi</string>
     <string name="info_dino_weight">Bobot</string>
     <string name="info_dino_weakness">Kelemahan</string>
+    <string name="btn_anggota_famili">lihat anggota</string>
 
     <string-array name="dino_name">
         <item>Tyrannosaurus rex</item>
@@ -254,9 +277,9 @@
         <item>Tyrannosauridae</item>
         <item>Tyrannosauridae</item>
         <item>Tyrannosauridae</item>
-        <item>Diplodocidae</item>
-        <item>Diplodocidae</item>
-        <item>Diplodocidae</item>
+        <item>Sauropodae</item>
+        <item>Sauropodae</item>
+        <item>Sauropodae</item>
         <item>Hadrosauridae</item>
         <item>Hadrosauridae</item>
         <item>Hadrosauridae</item>
@@ -264,10 +287,10 @@
         <item>Stegosauridae</item>
         <item>Ornithomimosauria</item>
         <item>Ornithomimosauria</item>
-        <item>Dromaeosauridae</item>
-        <item>Dromaeosauridae</item>
-        <item>Ceratopsidae</item>
-        <item>Ceratopsidae</item>
+        <item>Velociraptoridae</item>
+        <item>Velociraptoridae</item>
+        <item>Triceratopsidae</item>
+        <item>Triceratopsidae</item>
         <item>Ankylosauridae</item>
         <item>Ankylosauridae</item>
     </string-array>
